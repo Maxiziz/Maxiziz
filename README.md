@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxiziz
 - My name is Maksim
-- I'm business process manager; IT manager in the past
+- I'm Certified Business Process Management Specialist; IT manager in the past
 - I'm studying System and business analysis
 - I’m currently learning SQL and Phyton basics
 - Contact me in commets and pm
